@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject_two"]=self["webpackChunkproject_two"]||[]).push([[373],{2373:function(t,e,n){n.r(e),n.d(e,{default:function(){return f}});var u=function(){var t=this,e=t._self._c;return e("div",[t._v(" PageTwo ")])},r=[],l={},c=l,o=n(1001),s=(0,o.Z)(c,u,r,!1,null,null,null),f=s.exports}}]);
+//# sourceMappingURL=373.e0517895.js.map

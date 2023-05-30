@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject_two"]=self["webpackChunkproject_two"]||[]).push([[947],{7947:function(t,n,u){u.r(n),u.d(n,{default:function(){return f}});var e=function(){var t=this,n=t._self._c;return n("div",[t._v(" Mall ")])},l=[],r={},c=r,o=u(1001),s=(0,o.Z)(c,e,l,!1,null,null,null),f=s.exports}}]);
+//# sourceMappingURL=947.3e4385b1.js.map
